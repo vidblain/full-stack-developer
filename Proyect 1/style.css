@@ -1,0 +1,39 @@
+/*header*/
+header{
+    color:white;
+    background-color: black;
+
+}
+
+/*global style*/
+body{
+    font-family: 'Lora', serif;
+    background-color: black;
+    color:white;
+}
+
+/*utilities*/
+p.error{
+    color: aquamarine;
+}
+
+h1.vidblain{
+    text-transform: uppercase;
+    text-align: center;
+    color: #0afd5b;
+    letter-spacing: 6px;
+    font-size: 24px;
+    text-shadow: 6px 3px #654321;
+}
+p.title{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 10px;
+
+}
+p.mexicali{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 300;
+}
